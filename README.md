@@ -10,7 +10,7 @@ On the webpage the user can input filters on the left side table by the date, ci
 
 A screenshot of the webpage can be seen below: 
 
-![UFO Overview](
+![UFO Overview](https://github.com/MariaGarzon/UFOs/blob/90dafecc99d7831130bc9868f7386d0b737aa94a/Resources/UFO_Overview.png)
 
 ## Resources
 
